@@ -40,6 +40,7 @@ following system packages according to your distribution:
 | libxml2-dev libxslt-dev       |
 | libjpeg-dev librrd-dev        |
 | rrdtool libffi-dev libssl-dev |
+| libmagic-dev                  |
 +-------------------------------+
 
 +-----------------------------+
